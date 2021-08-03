@@ -7,6 +7,7 @@ namespace First_Program
         static void Main(string[] args)
         {
             Console.WriteLine("Hi! Its's Suchindra");
+            Console.WriteLine("Hello!");
         }
     }
 }
