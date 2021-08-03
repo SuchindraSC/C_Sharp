@@ -1,0 +1,13 @@
+C:\Users\ADVANCED\Desktop\C#\Employee_Problems\Employee_Attendance\Employee_Attendance\bin\Debug\netcoreapp3.1\Employee_Attendance.exe
+C:\Users\ADVANCED\Desktop\C#\Employee_Problems\Employee_Attendance\Employee_Attendance\bin\Debug\netcoreapp3.1\Employee_Attendance.deps.json
+C:\Users\ADVANCED\Desktop\C#\Employee_Problems\Employee_Attendance\Employee_Attendance\bin\Debug\netcoreapp3.1\Employee_Attendance.runtimeconfig.json
+C:\Users\ADVANCED\Desktop\C#\Employee_Problems\Employee_Attendance\Employee_Attendance\bin\Debug\netcoreapp3.1\Employee_Attendance.runtimeconfig.dev.json
+C:\Users\ADVANCED\Desktop\C#\Employee_Problems\Employee_Attendance\Employee_Attendance\bin\Debug\netcoreapp3.1\Employee_Attendance.dll
+C:\Users\ADVANCED\Desktop\C#\Employee_Problems\Employee_Attendance\Employee_Attendance\bin\Debug\netcoreapp3.1\Employee_Attendance.pdb
+C:\Users\ADVANCED\Desktop\C#\Employee_Problems\Employee_Attendance\Employee_Attendance\obj\Debug\netcoreapp3.1\Employee_Attendance.csproj.AssemblyReference.cache
+C:\Users\ADVANCED\Desktop\C#\Employee_Problems\Employee_Attendance\Employee_Attendance\obj\Debug\netcoreapp3.1\Employee_Attendance.AssemblyInfoInputs.cache
+C:\Users\ADVANCED\Desktop\C#\Employee_Problems\Employee_Attendance\Employee_Attendance\obj\Debug\netcoreapp3.1\Employee_Attendance.AssemblyInfo.cs
+C:\Users\ADVANCED\Desktop\C#\Employee_Problems\Employee_Attendance\Employee_Attendance\obj\Debug\netcoreapp3.1\Employee_Attendance.csproj.CoreCompileInputs.cache
+C:\Users\ADVANCED\Desktop\C#\Employee_Problems\Employee_Attendance\Employee_Attendance\obj\Debug\netcoreapp3.1\Employee_Attendance.dll
+C:\Users\ADVANCED\Desktop\C#\Employee_Problems\Employee_Attendance\Employee_Attendance\obj\Debug\netcoreapp3.1\Employee_Attendance.pdb
+C:\Users\ADVANCED\Desktop\C#\Employee_Problems\Employee_Attendance\Employee_Attendance\obj\Debug\netcoreapp3.1\Employee_Attendance.genruntimeconfig.cache
