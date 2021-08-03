@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Employee Full Time Wage/1.0.0": {
+        "runtime": {
+          "Employee Full Time Wage.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Employee Full Time Wage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

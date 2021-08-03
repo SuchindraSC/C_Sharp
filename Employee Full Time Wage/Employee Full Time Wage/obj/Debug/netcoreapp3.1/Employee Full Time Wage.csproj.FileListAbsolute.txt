@@ -1,0 +1,13 @@
+C:\Users\ADVANCED\Desktop\C#\Employee_Problems\Employee Full Time Wage\Employee Full Time Wage\bin\Debug\netcoreapp3.1\Employee Full Time Wage.exe
+C:\Users\ADVANCED\Desktop\C#\Employee_Problems\Employee Full Time Wage\Employee Full Time Wage\bin\Debug\netcoreapp3.1\Employee Full Time Wage.deps.json
+C:\Users\ADVANCED\Desktop\C#\Employee_Problems\Employee Full Time Wage\Employee Full Time Wage\bin\Debug\netcoreapp3.1\Employee Full Time Wage.runtimeconfig.json
+C:\Users\ADVANCED\Desktop\C#\Employee_Problems\Employee Full Time Wage\Employee Full Time Wage\bin\Debug\netcoreapp3.1\Employee Full Time Wage.runtimeconfig.dev.json
+C:\Users\ADVANCED\Desktop\C#\Employee_Problems\Employee Full Time Wage\Employee Full Time Wage\bin\Debug\netcoreapp3.1\Employee Full Time Wage.dll
+C:\Users\ADVANCED\Desktop\C#\Employee_Problems\Employee Full Time Wage\Employee Full Time Wage\bin\Debug\netcoreapp3.1\Employee Full Time Wage.pdb
+C:\Users\ADVANCED\Desktop\C#\Employee_Problems\Employee Full Time Wage\Employee Full Time Wage\obj\Debug\netcoreapp3.1\Employee Full Time Wage.csproj.AssemblyReference.cache
+C:\Users\ADVANCED\Desktop\C#\Employee_Problems\Employee Full Time Wage\Employee Full Time Wage\obj\Debug\netcoreapp3.1\Employee Full Time Wage.AssemblyInfoInputs.cache
+C:\Users\ADVANCED\Desktop\C#\Employee_Problems\Employee Full Time Wage\Employee Full Time Wage\obj\Debug\netcoreapp3.1\Employee Full Time Wage.AssemblyInfo.cs
+C:\Users\ADVANCED\Desktop\C#\Employee_Problems\Employee Full Time Wage\Employee Full Time Wage\obj\Debug\netcoreapp3.1\Employee Full Time Wage.csproj.CoreCompileInputs.cache
+C:\Users\ADVANCED\Desktop\C#\Employee_Problems\Employee Full Time Wage\Employee Full Time Wage\obj\Debug\netcoreapp3.1\Employee Full Time Wage.dll
+C:\Users\ADVANCED\Desktop\C#\Employee_Problems\Employee Full Time Wage\Employee Full Time Wage\obj\Debug\netcoreapp3.1\Employee Full Time Wage.pdb
+C:\Users\ADVANCED\Desktop\C#\Employee_Problems\Employee Full Time Wage\Employee Full Time Wage\obj\Debug\netcoreapp3.1\Employee Full Time Wage.genruntimeconfig.cache
