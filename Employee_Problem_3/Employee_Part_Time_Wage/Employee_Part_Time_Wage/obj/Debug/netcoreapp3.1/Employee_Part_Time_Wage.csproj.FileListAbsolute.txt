@@ -1,0 +1,13 @@
+C:\Users\ADVANCED\Desktop\C#\Employee_Problem_3\Employee_Part_Time_Wage\Employee_Part_Time_Wage\bin\Debug\netcoreapp3.1\Employee_Part_Time_Wage.exe
+C:\Users\ADVANCED\Desktop\C#\Employee_Problem_3\Employee_Part_Time_Wage\Employee_Part_Time_Wage\bin\Debug\netcoreapp3.1\Employee_Part_Time_Wage.deps.json
+C:\Users\ADVANCED\Desktop\C#\Employee_Problem_3\Employee_Part_Time_Wage\Employee_Part_Time_Wage\bin\Debug\netcoreapp3.1\Employee_Part_Time_Wage.runtimeconfig.json
+C:\Users\ADVANCED\Desktop\C#\Employee_Problem_3\Employee_Part_Time_Wage\Employee_Part_Time_Wage\bin\Debug\netcoreapp3.1\Employee_Part_Time_Wage.runtimeconfig.dev.json
+C:\Users\ADVANCED\Desktop\C#\Employee_Problem_3\Employee_Part_Time_Wage\Employee_Part_Time_Wage\bin\Debug\netcoreapp3.1\Employee_Part_Time_Wage.dll
+C:\Users\ADVANCED\Desktop\C#\Employee_Problem_3\Employee_Part_Time_Wage\Employee_Part_Time_Wage\bin\Debug\netcoreapp3.1\Employee_Part_Time_Wage.pdb
+C:\Users\ADVANCED\Desktop\C#\Employee_Problem_3\Employee_Part_Time_Wage\Employee_Part_Time_Wage\obj\Debug\netcoreapp3.1\Employee_Part_Time_Wage.csproj.AssemblyReference.cache
+C:\Users\ADVANCED\Desktop\C#\Employee_Problem_3\Employee_Part_Time_Wage\Employee_Part_Time_Wage\obj\Debug\netcoreapp3.1\Employee_Part_Time_Wage.AssemblyInfoInputs.cache
+C:\Users\ADVANCED\Desktop\C#\Employee_Problem_3\Employee_Part_Time_Wage\Employee_Part_Time_Wage\obj\Debug\netcoreapp3.1\Employee_Part_Time_Wage.AssemblyInfo.cs
+C:\Users\ADVANCED\Desktop\C#\Employee_Problem_3\Employee_Part_Time_Wage\Employee_Part_Time_Wage\obj\Debug\netcoreapp3.1\Employee_Part_Time_Wage.csproj.CoreCompileInputs.cache
+C:\Users\ADVANCED\Desktop\C#\Employee_Problem_3\Employee_Part_Time_Wage\Employee_Part_Time_Wage\obj\Debug\netcoreapp3.1\Employee_Part_Time_Wage.dll
+C:\Users\ADVANCED\Desktop\C#\Employee_Problem_3\Employee_Part_Time_Wage\Employee_Part_Time_Wage\obj\Debug\netcoreapp3.1\Employee_Part_Time_Wage.pdb
+C:\Users\ADVANCED\Desktop\C#\Employee_Problem_3\Employee_Part_Time_Wage\Employee_Part_Time_Wage\obj\Debug\netcoreapp3.1\Employee_Part_Time_Wage.genruntimeconfig.cache
