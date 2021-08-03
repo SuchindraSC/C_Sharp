@@ -1,0 +1,13 @@
+C:\Users\ADVANCED\Desktop\C#\Line_Comparison_2\Line_Comparison_2\Line_Comparison_2\bin\Debug\netcoreapp3.1\Line_Comparison_2.exe
+C:\Users\ADVANCED\Desktop\C#\Line_Comparison_2\Line_Comparison_2\Line_Comparison_2\bin\Debug\netcoreapp3.1\Line_Comparison_2.deps.json
+C:\Users\ADVANCED\Desktop\C#\Line_Comparison_2\Line_Comparison_2\Line_Comparison_2\bin\Debug\netcoreapp3.1\Line_Comparison_2.runtimeconfig.json
+C:\Users\ADVANCED\Desktop\C#\Line_Comparison_2\Line_Comparison_2\Line_Comparison_2\bin\Debug\netcoreapp3.1\Line_Comparison_2.runtimeconfig.dev.json
+C:\Users\ADVANCED\Desktop\C#\Line_Comparison_2\Line_Comparison_2\Line_Comparison_2\bin\Debug\netcoreapp3.1\Line_Comparison_2.dll
+C:\Users\ADVANCED\Desktop\C#\Line_Comparison_2\Line_Comparison_2\Line_Comparison_2\bin\Debug\netcoreapp3.1\Line_Comparison_2.pdb
+C:\Users\ADVANCED\Desktop\C#\Line_Comparison_2\Line_Comparison_2\Line_Comparison_2\obj\Debug\netcoreapp3.1\Line_Comparison_2.csproj.AssemblyReference.cache
+C:\Users\ADVANCED\Desktop\C#\Line_Comparison_2\Line_Comparison_2\Line_Comparison_2\obj\Debug\netcoreapp3.1\Line_Comparison_2.AssemblyInfoInputs.cache
+C:\Users\ADVANCED\Desktop\C#\Line_Comparison_2\Line_Comparison_2\Line_Comparison_2\obj\Debug\netcoreapp3.1\Line_Comparison_2.AssemblyInfo.cs
+C:\Users\ADVANCED\Desktop\C#\Line_Comparison_2\Line_Comparison_2\Line_Comparison_2\obj\Debug\netcoreapp3.1\Line_Comparison_2.csproj.CoreCompileInputs.cache
+C:\Users\ADVANCED\Desktop\C#\Line_Comparison_2\Line_Comparison_2\Line_Comparison_2\obj\Debug\netcoreapp3.1\Line_Comparison_2.dll
+C:\Users\ADVANCED\Desktop\C#\Line_Comparison_2\Line_Comparison_2\Line_Comparison_2\obj\Debug\netcoreapp3.1\Line_Comparison_2.pdb
+C:\Users\ADVANCED\Desktop\C#\Line_Comparison_2\Line_Comparison_2\Line_Comparison_2\obj\Debug\netcoreapp3.1\Line_Comparison_2.genruntimeconfig.cache
